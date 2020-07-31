@@ -1,7 +1,7 @@
 # Coursera_Capstone
 Applied Data Science Capstone Project Notebook on Courcera
 
-Week 1
+## Week 1
 
 # Purpose for this notebook
 To complete capstone project
